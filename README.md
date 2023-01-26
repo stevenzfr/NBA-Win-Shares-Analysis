@@ -1,4 +1,4 @@
-# NBA-data-science
+# NBA-Win-Shares-Analysis
 
 Detailed introduction for this data science project is in this Youtube video url link:
 
